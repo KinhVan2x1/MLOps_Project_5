@@ -15,5 +15,5 @@ Thumbs.db
 *.pyc
 venv/
 
-# # Data wil now be track by dvc
-# /data
+# Data wil now be track by dvc
+/data
