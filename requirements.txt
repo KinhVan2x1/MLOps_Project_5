@@ -4,3 +4,4 @@ typing
 mlflow
 dvc
 nltk
+dvclive

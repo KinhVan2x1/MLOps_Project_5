@@ -17,3 +17,8 @@ venv/
 
 # Data wil now be track by dvc
 /data
+
+/models
+
+/reports
+
